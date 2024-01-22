@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2020/W32TeX)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: research_proposal.aux
+The style file: unsrt.bst
+Database file #1: ref.bib
+Warning--I didn't find a database entry for ""
+Warning--empty booktitle in tranquada_spins_2013
+Warning--empty journal in harriger_stripe_nodate
+Warning--empty year in harriger_stripe_nodate
+You've used 43 entries,
+            1791 wiz_defined-function locations,
+            705 strings with 16216 characters,
+and the built_in function-call counts, 13384 in all, are:
+= -- 871
+> -- 1211
+< -- 1
++ -- 419
+- -- 376
+* -- 1392
+:= -- 2382
+add.period$ -- 130
+call.type$ -- 43
+change.case$ -- 43
+chr.to.int$ -- 0
+cite$ -- 46
+duplicate$ -- 388
+empty$ -- 987
+format.name$ -- 376
+if$ -- 2676
+int.to.chr$ -- 0
+int.to.str$ -- 43
+missing$ -- 41
+newline$ -- 219
+num.names$ -- 43
+pop$ -- 64
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 147
+stack$ -- 0
+substring$ -- 816
+swap$ -- 51
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 3
+while$ -- 97
+width$ -- 45
+write$ -- 472
+(There were 4 warnings)
